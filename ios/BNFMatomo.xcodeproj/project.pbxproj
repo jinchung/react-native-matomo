@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3C1070092214B473000F2541 /* libBNFMatomo.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 9A01249E21B5AF5E004E207B /* libBNFMatomo.a */; };
 		9A0124EE21B5B057004E207B /* EventSerializer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A0124C421B5B057004E207B /* EventSerializer.swift */; };
 		9A0124EF21B5B057004E207B /* Dispatcher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A0124C521B5B057004E207B /* Dispatcher.swift */; };
 		9A0124F021B5B057004E207B /* Logger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A0124C621B5B057004E207B /* Logger.swift */; };
@@ -73,6 +74,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3C1070092214B473000F2541 /* libBNFMatomo.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
